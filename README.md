@@ -33,5 +33,3 @@ I am a high school developer <img src="https://i.pinimg.com/originals/6a/16/3e/6
   LinkedIn: https://www.linkedin.com/in/andrea-yang-6a4593245/
   
   Website in progress..!
-
-~~~~~~~~~
