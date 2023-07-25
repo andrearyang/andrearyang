@@ -16,7 +16,7 @@
   Hello world!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="(https://i.pinimg.com/originals/6a/16/3e/6a163ebe5227c2216ad440b7dcc2985d.gif)" width="600" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
@@ -27,5 +27,5 @@ I am a high school developer <img src="https://i.pinimg.com/originals/6a/16/3e/6
 
 - :zap: And lover of STEM :) 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakhar-blue?style=flat&logo=Linkedin&logoColor=white)]([(https://www.linkedin.com/in/andrea-yang-6a4593245/)https://www.linkedin.com/in/andrea-yang-6a4593245/])
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakhar-blue?style=flat&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/andrea-yang-6a4593245/)https://www.linkedin.com/in/andrea-yang-6a4593245/)
 </h1>
