@@ -16,7 +16,6 @@
   Hello world!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <div align="center">
-  <img src="(https://i.pinimg.com/originals/94/22/0a/94220ae394c24d22c224415de79b1cba.gif)" width="600" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
