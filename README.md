@@ -26,10 +26,12 @@ I am a high school developer <img src="https://i.pinimg.com/originals/6a/16/3e/6
 
 - :zap: And lover of STEM :) 
 
-- :mailbox:How to reach me:
+- :mailbox: How to reach me:
   
   Email: andreayang64@gmail.com
   
   LinkedIn: https://www.linkedin.com/in/andrea-yang-6a4593245/
   
   Website in progress..!
+
+~~~~~~~~~
