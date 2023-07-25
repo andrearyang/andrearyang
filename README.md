@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Fgifs%2F303154-transparent-jellyfish-gif&psig=AOvVaw3fhkeRBxdD_wJJ5KOMD0ll&ust=1690408303478000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiQwuXrqoADFQAAAAAdAAAAABAo)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Fgifs%2F303154-transparent-jellyfish-gif&psig=AOvVaw3fhkeRBxdD_wJJ5KOMD0ll&ust=1690408303478000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiQwuXrqoADFQAAAAAdAAAAABAo" width="100"/>
+  <img src="https://25.media.tumblr.com/605c7d9957909205baf68f7db55793ab/tumblr_mt6hmoX7VV1s5jjtzo1_500.gif" width="100"/>
 </div>
