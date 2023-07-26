@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/4d/63/56/4d6356ad9c0e204f0585c3268c6f5c29.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/andrea-yang-6a4593245/">
