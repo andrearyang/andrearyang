@@ -32,4 +32,7 @@ I'm Andrea Yang, a high school developer <img src="https://i.pinimg.com/original
   
   LinkedIn: https://www.linkedin.com/in/andrea-yang-6a4593245/
   
-  Website in progress..!
+ Currently working on:
+ 1. Building personal site!
+ 2. Building a website for a project
+ 3. Research
