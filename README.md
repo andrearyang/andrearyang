@@ -18,7 +18,7 @@
   <div align="center">
 </div>
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me:
 I'm Andrea Yang, a high school developer <img src="https://i.pinimg.com/originals/6a/16/3e/6a163ebe5227c2216ad440b7dcc2985d.gif" width="30"> from the USA.
 - :telescope: I’m a creator of multiple projects.
 
@@ -33,6 +33,6 @@ I'm Andrea Yang, a high school developer <img src="https://i.pinimg.com/original
   LinkedIn: https://www.linkedin.com/in/andrea-yang-6a4593245/
   
  Currently working on:
- 1. Building personal site!
- 2. Building a website for a project
- 3. Research
+ 1. Building my digital garden: testing my web dev skills.. and love for biology! 🪴
+ 2. Proficiency in R, MATLAB, and AI/ML 🔬
+ 3. Creating a top secret project, sharpening my Swift skills 🤍
