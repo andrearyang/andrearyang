@@ -14,9 +14,9 @@
 
 ### :woman_technologist: About Me:
 I'm Andrea Yang, a high school developer <img src="https://i.pinimg.com/originals/6a/16/3e/6a163ebe5227c2216ad440b7dcc2985d.gif" width="30"> from the USA.
-- :telescope: I’m a creator of multiple projects.
+- :telescope: I’m a creator of many projects :D
 
-- :seedling: Budding competitive programmer.
+- :seedling: Researcher, writer, life-long learner
 
 - :zap: And lover of STEM :) 
 
@@ -29,4 +29,4 @@ I'm Andrea Yang, a high school developer <img src="https://i.pinimg.com/original
  Currently working on:
  1. Building my digital garden: Next.js and love for biology 🪴
  2. Research with R, MATLAB, and AI/ML 🔬
- 3. Tons of software and hardware projects
+ 3. Tons of fun software and hardware projects
