@@ -7,26 +7,24 @@
   </a>
 </div>
 <h1>
-  Hello world!
+  hello world!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <div align="center">
 </div>
 
 ### :woman_technologist: More About Me:
-I'm Andrea Yang, a high school developer <img src="https://i.pinimg.com/originals/6a/16/3e/6a163ebe5227c2216ad440b7dcc2985d.gif" width="30"> from the USA.
-- :telescope: I’m a creator of many projects :D
+i'm Andrea Yang, a high school developer/researcher <img src="https://i.pinimg.com/originals/6a/16/3e/6a163ebe5227c2216ad440b7dcc2985d.gif" width="30"> from the USA.
+- :telescope: i've built a range of projects :D
 
-- :seedling: Researcher, writer, life-long learner
+- :seedling: i am a researcher, writer, life-long learner
 
-- :zap: And lover of STEM :) 
+- :zap: and lover of STEM :) 
 
-- :mailbox: How to reach me:
+- :mailbox: how to reach me:
   
-  Email: andreayang64@gmail.com
+  email: andreayang64@gmail.com / linkedin: https://www.linkedin.com/in/andrea-yang-6a4593245/
   
-  LinkedIn: https://www.linkedin.com/in/andrea-yang-6a4593245/
-  
- Currently working on:
- 1. Building websites with React, both for personal and business use
- 2. Research with R, MATLAB, and AI/ML 🔬
- 3. Tons of miscellaneous + fun software and hardware projects!
+ currently working on:
+ 1. building websites with React, both for personal and business use
+ 2. research with R, MATLAB, and AI/ML 🔬
+ 3. tons of miscellaneous + fun software and hardware projects!
