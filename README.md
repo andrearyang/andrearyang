@@ -12,7 +12,7 @@
   <div align="center">
 </div>
 
-### :woman_technologist: more about me:
+### :woman_technologist: More About Me:
 I'm Andrea Yang, a high school developer <img src="https://i.pinimg.com/originals/6a/16/3e/6a163ebe5227c2216ad440b7dcc2985d.gif" width="30"> from the USA.
 - :telescope: I’m a creator of many projects :D
 
