@@ -27,6 +27,6 @@ I'm Andrea Yang, a high school developer <img src="https://i.pinimg.com/original
   LinkedIn: https://www.linkedin.com/in/andrea-yang-6a4593245/
   
  Currently working on:
- 1. Building my digital garden: Next.js and love for biology 🪴
+ 1. Building websites with React, both for personal and business use
  2. Research with R, MATLAB, and AI/ML 🔬
- 3. Tons of fun software and hardware projects
+ 3. Tons of miscellaneous + fun software and hardware projects!
