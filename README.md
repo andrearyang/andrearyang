@@ -22,4 +22,4 @@ i'm andrea yang, a high school developer and researcher <img src="https://i.pini
  currently working on:
  1. building websites with React, both for personal and business use
  2. research with R, MATLAB, and AI/ML 🔬
- 3. miscellaneous software and hardware projects that solve inefficencies you might have not given thought to before!
+ 3. miscellaneous software and hardware projects
