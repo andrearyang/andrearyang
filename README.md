@@ -12,12 +12,12 @@
   <div align="center">
 </div>
 
-### more about me:
+### about me:
 i'm andrea yang, a high school developer and researcher <img src="https://i.pinimg.com/originals/6a/16/3e/6a163ebe5227c2216ad440b7dcc2985d.gif" width="30"> from the USA.
 - :seedling: i believe in building for science, education, and accessibility
 - :mailbox: how to reach me:
   
-  email: andreayang64@gmail.com / linkedin: https://www.linkedin.com/in/andrea-yang-6a4593245/ <br></br>
+  email: andrea@andrearyang.com / linkedin: https://www.linkedin.com/in/andrea-yang-6a4593245/ <br></br>
   website: https://andrearyang.com
   
  currently working on:
