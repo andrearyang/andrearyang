@@ -12,15 +12,10 @@
   <div align="center">
 </div>
 
-### about me:
 i'm andrea yang, a high school developer and researcher <img src="https://i.pinimg.com/originals/6a/16/3e/6a163ebe5227c2216ad440b7dcc2985d.gif" width="30"> from the USA.
 - :seedling: i believe in building for science, education, and accessibility
+i primarily work on tools for biological research. i'm currently building computational tools at duke university related to gene expression; i'm also advocating, competing, and exploring! check out my website to learn more.
 - :mailbox: how to reach me:
   
   email: andrea@andrearyang.com / linkedin: https://www.linkedin.com/in/andrea-yang-6a4593245/ <br></br>
   website: https://andrearyang.com
-  
- currently working on:
- 1. building websites both for personal and business use
- 2. research with R, MATLAB, and AI/ML
- 3. miscellaneous software and hardware projects
