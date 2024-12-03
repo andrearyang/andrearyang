@@ -15,7 +15,8 @@
 i'm andrea yang, a high school developer and researcher from the USA. i believe in building for science, education, and accessibility.
 <br></br>
 i primarily work on tools for biological research. i'm currently building computational tools at duke university related to gene expression; i'm also advocating, competing, and exploring! check out my website to learn more.
-- :mailbox: how to reach me:
+<br></br>
+:mailbox: how to reach me:
   
   email: andrea@andrearyang.com / linkedin: https://www.linkedin.com/in/andrea-yang-6a4593245/ <br></br>
   website: https://andrearyang.com
