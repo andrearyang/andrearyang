@@ -18,5 +18,4 @@ i primarily work on tools for biological research. i'm currently building comput
 <br></br>
 :mailbox: how to reach me:
   
-  email: andrea@andrearyang.com / linkedin: https://www.linkedin.com/in/andrea-yang-6a4593245/ <br></br>
-  website: https://andrearyang.com
+  email: andrea@andrearyang.com / website: https://andrearyang.com
