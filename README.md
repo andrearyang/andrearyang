@@ -5,8 +5,8 @@
 </h1>
 i'm andrea yang, a high school developer and researcher from the USA. i believe in building for science, education, and accessibility.
 <br></br>
-i primarily work on tools for biological research. i'm currently building computational tools related to gene expression; i'm also advocating, competing, and exploring! check out my website to learn more.
+i primarily work on tools for biological & computational research; i'm currently working @ usc and @ stony brook, developing computational tools related to gene expression and ai algorithms for computational work. i'm also doing cool things @ hack club and with my startup starfly! check out my website to learn more about my work.
 <br></br>
-:mailbox: how to reach me:
+:mailbox: reach out!
   
   email: andrea@andrearyang.com / website: https://andrearyang.com
