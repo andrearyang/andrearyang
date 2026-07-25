@@ -9,4 +9,4 @@ i primarily work on tools for computational research. i'm also doing cool things
 <br></br>
 :mailbox: reach me:
   
-  email: andreay@mit.edu / website: https://andrearyang.com
+  email: andreay [at] mit [dot] edu / website: https://andrearyang.com
